@@ -160,7 +160,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📹 Video Walkthrough
 
 Watch a quick walkthrough of the app in action here:
-[https://www.loom.com/share/c28573f35b3c4c35be3c5c53b368806f](https://www.loom.com/share/c28573f35b3c4c35be3c5c53b368806f)
+[https://www.loom.com/share/c28573f35b3c4c35be3c5c53b368806f](https://www.loom.com/share/c28573f35b3c4c35be3c5c53b368806f))
 
 
 Made with ❤️ by  Kumarjit using Flutter
